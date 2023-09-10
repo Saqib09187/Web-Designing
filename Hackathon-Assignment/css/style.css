@@ -1,0 +1,29 @@
+#navbarNavAltMarkup{
+    display: flex;
+    justify-content: end;
+}
+.logo{
+    margin-right: 2px;
+
+}
+.logo2{
+    margin-left: 0px;
+}
+.More-than-Faster{
+    margin-top: 150px;
+}
+.Dialogue-Postcasts-Generated{
+    margin-top: 100px;
+}
+.center {
+    display: block;
+    margin-left: 300px;
+    margin-right: auto;
+    width: 50%;
+}
+.image-container {
+    display: flex;
+    padding-left: 230px;
+}
+
+    
